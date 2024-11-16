@@ -1,4 +1,4 @@
-# recipe_predector
+# news API
 
 A new Flutter project.
 
